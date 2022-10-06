@@ -3,4 +3,6 @@
 
 <h3>ilk denemenin kusuru olmaz </h3>
 
-![](gif.gif)
+<h2>Ekran goruntusu</h2>
+
+![screen-gif](gif.gif)
